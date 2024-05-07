@@ -17,6 +17,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 As seguintes ferramentas foram usadas no desenvolvimento desse projeto:
 - React
+- Axios
 - Git
 - Python
 - Node.js
