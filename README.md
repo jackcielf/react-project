@@ -41,7 +41,7 @@ $ cd react-project-api
 $ python -m venv env
 
 # Ative o ambiente virtual (Mac)
-$ source venv/bin/activate
+$ source env/bin/activate
 
 # Ative o ambiente virtual (Windows)
 $ ./env/Scripts/activate
