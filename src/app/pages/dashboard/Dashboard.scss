@@ -1,0 +1,17 @@
+.dashboard {
+  display: flex;
+  flex-direction: column;
+  row-gap: 16px;
+
+  .dashboard__card {
+    width: clamp(300px, 300px, 600px);
+    background-color: #f5f5f5;
+    box-shadow: 0 0 4px #2424243d;
+    text-align: center;
+
+    b {
+      font-size: 4rem;
+      line-height: 30px;
+    }
+  }
+}
