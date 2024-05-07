@@ -53,6 +53,7 @@ $ pip install -r requirements.txt
 $ flask run
 
 # O servidor inciará na porta:5000 - acesse http://localhost:5000
+```
 
 ### Rodando o frontend
 
